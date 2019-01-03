@@ -1,0 +1,14 @@
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.deps.json
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.runtimeconfig.json
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.dll
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.pdb
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.dll
+C:\Users\rajendra.rama\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.pdb
